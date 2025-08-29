@@ -1,0 +1,2 @@
+# Galactic_Rotation_Curves_Tsallis_Non_Extensive_Statistics
+Power-Law Galactic Rotation Curves from Tsallis Non-Extensive Statistics
