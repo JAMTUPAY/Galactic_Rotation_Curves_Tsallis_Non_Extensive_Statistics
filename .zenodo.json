@@ -1,0 +1,31 @@
+{
+  "title": "A Complete Theoretical Framework for Power-Law Galactic Rotation Curves: From Tsallis Non-Extensive Statistics to Observable Predictions",
+  "creators": [
+    {
+      "name": "Tupay, Johann Anton Michael",
+      "affiliation": "London, United Kingdom"
+    }
+  ],
+  "description": "LaTeX source, figures, and references for the paper deriving power-law rotation curves from Tsallis non-extensive statistics, companion to the empirical EBC study. Includes proofs of uniqueness, predictive framework for q, validation on SPARC galaxies, and falsifiable lensing predictions.",
+  "keywords": [
+    "Galaxy rotation curves",
+    "Dark matter",
+    "NFW halo",
+    "MOND",
+    "Entropy",
+    "Non-extensive statistics",
+    "Tsallis",
+    "Phenomenological models",
+    "SPARC",
+    "Reproducible research"
+  ],
+  "license": "MIT",
+  "upload_type": "publication",
+  "publication_type": "article",
+  "related_identifiers": [
+    {
+      "relation": "isSupplementTo",
+      "identifier": "https://github.com/JAMTUPAY/NeoAmorfic_EBC_IC"
+    }
+  ]
+}
