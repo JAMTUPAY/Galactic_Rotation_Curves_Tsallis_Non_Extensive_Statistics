@@ -1,6 +1,6 @@
 # Power-Law Galactic Rotation Curves from Tsallis Non-Extensive Statistics
 
-[![DOI](https://zenodo.org/badge/DOI/XXXXX.svg)](https://doi.org/XXXXX)
+[![DOI](https://zenodo.org/badge/DOI/XXXXX.svg)](https://zenodo.org/records/16997832))
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
 ## Abstract
@@ -60,7 +60,7 @@ If you use this work, please cite:
             to Observable Predictions},
   year    = {2025},
   month   = {8},
-  doi     = {ZENODO_DOI_HERE}
+  doi     = {[10.5281/zenodo.16997832]}
 }
 
 ## Related Work
